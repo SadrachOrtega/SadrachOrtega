@@ -1,7 +1,7 @@
 # ¡Hola! Soy Sadrach Ortega Torres 👋
 
 🎓 **Estudiante de Ingeniería Civil en Informática** (4° año) en la **Universidad del Bío-Bío** (Chillán, Chile).  
-💻 Me apasiona el **desarrollo web y móvil (fullstack)**, construir software robusto y resolver problemas en equipo.
+💻 Me interes el **desarrollo web y móvil (fullstack)**, construir software robusto y resolver problemas en equipo.
 
 ---
 
