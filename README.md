@@ -40,4 +40,4 @@
 
 ### 📬 Contacto
 
-📧 [sadrach.ortega2301@alumnos.ubiobio.cl](mailto:sadrach.ortega2301@alumnos.ubiobio.cl) · 📍 San Carlos / Chillán, Ñuble, Chile
+📧 [sadrach.ortega2301@alumnos.ubiobio.cl](mailto:sadrach.ortega2301@alumnos.ubiobio.cl) · 💼 [LinkedIn](https://www.linkedin.com/in/sadrach-roy-ortega-torres) · 📍 San Carlos / Chillán, Ñuble, Chile
